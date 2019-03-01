@@ -41,8 +41,8 @@ module.Translations = {
 	FIREMODE_PUMP = "Vorderschaftschusswaffe";
 	FIREMODE_SEMI = "Halbautomatisch";
 	FIREMODE_SINGLE = "Einzelschuss";
-    
-    --Weapon calibers
+	
+	--Weapon calibers
 	CALIBER_ACP45 = ".45 ACP";
 	CALIBER_LUGER9MM = "9×19 mm";
 	CALIBER_NATO556 = "5.56×45 mm";

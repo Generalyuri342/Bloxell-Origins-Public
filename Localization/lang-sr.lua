@@ -7,32 +7,32 @@ module.Code = "sr"
 module.Flag = "rbxassetid://562371650";
 
 module.Translations = {
-    --Basic Buttons
-    BUTTON_CONFIRM = "Потврди";
+	--Basic Buttons
+	BUTTON_CONFIRM = "Потврди";
 	BUTTON_SUBMIT = "Унеси";
 
-    --Beta Key Screen
-    BETAKEY_HEAD = "Рана Фаза Игре";
+	--Beta Key Screen
+	BETAKEY_HEAD = "Рана Фаза Игре";
 	BETAKEY_PROMPT = "Молимо вас унесите ваш код да би сте играли игру раније.";
-    BETAKEY_TEXTBOX = "Унесите код за Бета";
-    BETAKEY_FINISHED_HEAD = "Добродошли!";
+	BETAKEY_TEXTBOX = "Унесите код за Бета";
+	BETAKEY_FINISHED_HEAD = "Добродошли!";
 	BETAKEY_FINISHED = "Добродошао. Молимо вас сачекајте док вас телепортујемо на туторијални сервер.";
 	BETAKEY_TOOMANYGUESSES = "Превише погађања. Ваш акаунт је блокиран за 24 сата.";
 	BETAKEY_INVALID = "Неисправан код. Молимо вас пробајте поново.";
 	BETAKEY_NEWACCOUNT = "Ваш акоунт мора бити стар минимум месец дана да би могао играти игру.";
-    
+	
 	--Countries
 	COUNTRY_BELGIUM = "Белгија";
-    COUNTRY_BLOXELL = "Блоксел";
-    COUNTRY_CZECHSLOVAK = "Чехословачка";
-    COUNTRY_GERMANY = "Немачка";
-    COUNTRY_RUSSIA = "Русија";
-    COUNTRY_SERBIA = "Србија";
-    COUNTRY_SOVIET = "Совјетски Савез";
-    COUNTRY_US = "Сједињене Америчке Државе";
-    COUNTRY_YUGOSLAVIA = "Југославија";
-    
-    --Weapon Firemodes
+	COUNTRY_BLOXELL = "Блоксел";
+	COUNTRY_CZECHSLOVAK = "Чехословачка";
+	COUNTRY_GERMANY = "Немачка";
+	COUNTRY_RUSSIA = "Русија";
+	COUNTRY_SERBIA = "Србија";
+	COUNTRY_SOVIET = "Совјетски Савез";
+	COUNTRY_US = "Сједињене Америчке Државе";
+	COUNTRY_YUGOSLAVIA = "Југославија";
+	
+	--Weapon Firemodes
 	FIREMODE_AUTO = "Automatic Fire";
 	FIREMODE_BOLT = "Bolt-Action";
 	FIREMODE_BREAK1 = "Break-Action";
@@ -41,13 +41,13 @@ module.Translations = {
 	FIREMODE_LEVER = "Lever-Action";
 	FIREMODE_PUMP = "Pump-Action";
 	FIREMODE_SEMI = "Semi-Automatic";
-    FIREMODE_SINGLE = "Single-Shot";
-    
-    --Weapon calibers
+	FIREMODE_SINGLE = "Single-Shot";
+	
+	--Weapon calibers
 	CALIBER_ACP45 = ".45 АЦП";
 	CALIBER_LUGER9MM = "9×19mm";
-    CALIBER_NATO556 = "5.56×45mm";
-    
+	CALIBER_NATO556 = "5.56×45mm";
+	
 	--Weapons Manufacturers
 	MANUFACTURER_COLT = "Колт";
 	MANUFACTURER_DWM = "ДВМ";
@@ -56,9 +56,9 @@ module.Translations = {
 	MANUFACTURER_HK = "Хеклер и Кох";
 	MANUFACTURER_TEC = "Интратек";
 	MANUFACTURER_IZHEVSK = "Изхевск";
-    MANUFACTURER_TF = "ТФ Оружје";
-    
-    --Item Names
+	MANUFACTURER_TF = "ТФ Оружје";
+	
+	--Item Names
 	ITEM_AB10 = "АБ-10";
 	ITEM_F2000 = "ФН Ф2000";
 	ITEM_FP45 = "ФП-45";
@@ -68,9 +68,9 @@ module.Translations = {
 	ITEM_MR308 = "МР308";
 	ITEM_P08 = "Лугер П08";
 	ITEM_P85 = "П85 Ловац";
-    ITEM_TF17 = "ТФ-17";
+	ITEM_TF17 = "ТФ-17";
 
-    --Language Selection
+	--Language Selection
 	LANGSELECT_HEAD = "Одабери свој језик";
 	
 	--Months

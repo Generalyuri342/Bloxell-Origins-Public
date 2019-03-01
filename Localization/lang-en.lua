@@ -10,32 +10,32 @@ module.Code = "en"
 module.Flag = "rbxassetid://251067813";
 
 module.Translations = {
-    --Basic Buttons
-    BUTTON_CONFIRM = "Confirm";
+	--Basic Buttons
+	BUTTON_CONFIRM = "Confirm";
 	BUTTON_SUBMIT = "Submit";
 
-    --Beta Key Screen
-    BETAKEY_HEAD = "Early Access";
+	--Beta Key Screen
+	BETAKEY_HEAD = "Early Access";
 	BETAKEY_PROMPT = "Please enter your early access key in order to gain access to the game.";
-    BETAKEY_TEXTBOX = "Enter Beta Key";
-    BETAKEY_FINISHED_HEAD = "Welcome!";
+	BETAKEY_TEXTBOX = "Enter Beta Key";
+	BETAKEY_FINISHED_HEAD = "Welcome!";
 	BETAKEY_FINISHED = "Welcome. Please wait as you are teleported to an open tutorial server.";
 	BETAKEY_TOOMANYGUESSES = "Too many guesses. Your account has been restricted for 24 hours.";
 	BETAKEY_INVALID = "Invalid key. Please try again.";
 	BETAKEY_NEWACCOUNT = "Only accounts at least one month old are allowed early access.";
-    
+	
 	--Countries
 	COUNTRY_BELGIUM = "Belgium";
-    COUNTRY_BLOXELL = "Bloxell";
-    COUNTRY_CZECHSLOVAK = "Czechoslovkia";
-    COUNTRY_GERMANY = "Germany";
-    COUNTRY_RUSSIA = "Russia";
-    COUNTRY_SERBIA = "Serbia";
-    COUNTRY_SOVIET = "Soviet Union";
-    COUNTRY_US = "United States";
-    COUNTRY_YUGOSLAVIA = "Yugoslavia";
-    
-    --Weapon Firemodes
+	COUNTRY_BLOXELL = "Bloxell";
+	COUNTRY_CZECHSLOVAK = "Czechoslovkia";
+	COUNTRY_GERMANY = "Germany";
+	COUNTRY_RUSSIA = "Russia";
+	COUNTRY_SERBIA = "Serbia";
+	COUNTRY_SOVIET = "Soviet Union";
+	COUNTRY_US = "United States";
+	COUNTRY_YUGOSLAVIA = "Yugoslavia";
+	
+	--Weapon Firemodes
 	FIREMODE_AUTO = "Automatic Fire";
 	FIREMODE_BOLT = "Bolt-Action";
 	FIREMODE_BREAK1 = "Break-Action";
@@ -44,13 +44,13 @@ module.Translations = {
 	FIREMODE_LEVER = "Lever-Action";
 	FIREMODE_PUMP = "Pump-Action";
 	FIREMODE_SEMI = "Semi-Automatic";
-    FIREMODE_SINGLE = "Single-Shot";
-    
-    --Weapon calibers
+	FIREMODE_SINGLE = "Single-Shot";
+	
+	--Weapon calibers
 	CALIBER_ACP45 = ".45 ACP";
 	CALIBER_LUGER9MM = "9×19mm";
-    CALIBER_NATO556 = "5.56×45mm";
-    
+	CALIBER_NATO556 = "5.56×45mm";
+	
 	--Weapons Manufacturers
 	MANUFACTURER_COLT = "Colt";
 	MANUFACTURER_DWM = "DWM";
@@ -59,9 +59,9 @@ module.Translations = {
 	MANUFACTURER_HK = "Heckler & Koch";
 	MANUFACTURER_TEC = "Intratec";
 	MANUFACTURER_IZHEVSK = "Izhevsk";
-    MANUFACTURER_TF = "TF Armaments";
-    
-    --Item Names
+	MANUFACTURER_TF = "TF Armaments";
+	
+	--Item Names
 	ITEM_AB10 = "AB-10";
 	ITEM_F2000 = "FN F2000";
 	ITEM_FP45 = "FP-45";
@@ -71,9 +71,9 @@ module.Translations = {
 	ITEM_MR308 = "MR308";
 	ITEM_P08 = "Luger P08";
 	ITEM_P85 = "Huntsman P85";
-    ITEM_TF17 = "TF-17";
-    
-    --Languages
+	ITEM_TF17 = "TF-17";
+	
+	--Languages
 	LANG_AR = "العربية";
 	LANG_BG = "български";
 	LANG_BS = "bosanski";
@@ -107,7 +107,7 @@ module.Translations = {
 	LANG_UR = "اردو";
 	LANG_ZH = "中文";
 
-    --Language Selection
+	--Language Selection
 	LANGSELECT_HEAD = "Select your Language";
 	
 	--Months
@@ -123,9 +123,9 @@ module.Translations = {
 	MONTH_J = "October";
 	MONTH_K = "November";
 	MONTH_L = "December";
-    
-    --NPCs
-    NPC_TESTING_NAME = "Testing NPC";
+	
+	--NPCs
+	NPC_TESTING_NAME = "Testing NPC";
 	NPC_TESTING_WELCOME = "Welcome Message.";
 };
 

@@ -7,7 +7,7 @@ module.Code = "ru"
 module.Flag = "rbxassetid://1178756771";
 
 module.Translations = {
-    --Basic Buttons
+	--Basic Buttons
 	BUTTON_CONFIRM = "Подтвердить";
 	BUTTON_SUBMIT = "Отправить";
 
@@ -20,9 +20,9 @@ module.Translations = {
 	BETAKEY_TOOMANYGUESSES = "Слишком много догадок. Ваша учетная запись была ограничена в течение 24 часов.";
 	BETAKEY_INVALID = "Неправильный ключ.Пожалуйста,попробуйте еще раз.";
 	BETAKEY_NEWACCOUNT = "Только учетные записи в возрасте не менее одного месяца разрешены ранний доступ.";
-    
-    --Countries
-    COUNTRY_BLOXELL = "Блоксел";
+	
+	--Countries
+	COUNTRY_BLOXELL = "Блоксел";
 	COUNTRY_CZECHSLOVAK = "Чехословакия";
 	COUNTRY_GERMANY = "Германия";
 	COUNTRY_RUSSIA = "Россия";
@@ -30,8 +30,8 @@ module.Translations = {
 	COUNTRY_SOVIET = "Советский Союз";
 	COUNTRY_US = "Соединенные Штаты";
 	COUNTRY_YUGOSLAVIA = "Югославия";
-    
-    --Weapon Firemodes
+	
+	--Weapon Firemodes
 	FIREMODE_AUTO = "Автоматический-огонь";
 	FIREMODE_BOLT = "Затвор";
 	FIREMODE_BREAK1 = "Перерыв-Действие";
@@ -40,13 +40,13 @@ module.Translations = {
 	FIREMODE_LEVER = "Рычаг-действие";
 	FIREMODE_PUMP = "Насос-Действие";
 	FIREMODE_SEMI = "Полу-автоматический";
-    FIREMODE_SINGLE = "Единичный огонь";
-    
-    --Weapon calibers
+	FIREMODE_SINGLE = "Единичный огонь";
+	
+	--Weapon calibers
 	CALIBER_ACP45 = ".45 ACP";
 	CALIBER_LUGER9MM = "9×19mm";
-    CALIBER_NATO556 = "5.56×45mm";
-    
+	CALIBER_NATO556 = "5.56×45mm";
+	
 	--Weapons Manufacturers
 	MANUFACTURER_COLT = "Кольт";
 	MANUFACTURER_DWM = "DWM";
@@ -54,9 +54,9 @@ module.Translations = {
 	MANUFACTURER_HK = "Heckler & Koch";
 	MANUFACTURER_TEC = "Intratec";
 	MANUFACTURER_IZHEVSK = "Izhevsk";
-    MANUFACTURER_TF = "TF Вооружения";
-    
-    --Item Names
+	MANUFACTURER_TF = "TF Вооружения";
+	
+	--Item Names
 	ITEM_AB10 = "АБ-10";
 	ITEM_FP45 = "ФП-45";
 	ITEM_G3 = "ХиК Г3";
@@ -67,7 +67,7 @@ module.Translations = {
 	ITEM_P85 = "Егерь P85";
 	ITEM_TF17 = "ТФ-17";
 
-    --Language Selection
+	--Language Selection
 	LANGSELECT_HEAD = "Выбирите ваш язык";
 	
 	--Months
@@ -83,9 +83,9 @@ module.Translations = {
 	MONTH_J = "Октября";
 	MONTH_K = "Ноября";
 	MONTH_L = "Декабря";
-    
-    --NPCs
-    NPC_TESTING_NAME = "Testing NPC";
+	
+	--NPCs
+	NPC_TESTING_NAME = "Testing NPC";
 	NPC_TESTING_WELCOME = "Welcome Message.";
 };
 
