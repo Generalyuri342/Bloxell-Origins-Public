@@ -35,6 +35,26 @@ module.Translations = {
 	COUNTRY_US = "United States";
 	COUNTRY_YUGOSLAVIA = "Yugoslavia";
 
+	--Character Customization
+	CUSTOMIZATION_FINALIZE = "Create Character";
+	CUSTOMIZATION_WARNING = "You will be unable to edit most of your character's personal information after finalization. Please do not use your own personal information during customization, create a fictional character.";
+
+	CUSTOMIZATION_BIRTH = "Date of Birth";
+	CUSTOMIZATION_BIRTH_DATE = "Date";
+	CUSTOMIZATION_BIRTH_MONTH = "Month";
+	CUSTOMIZATION_BIRTH_YEAR = "Year";
+	CUSTOMIZATION_ETHNICITY = "Ethnicity";
+	CUSTOMIZATION_FACES = "Face";
+	CUSTOMIZATION_FACIALHAIR = "Facial Hair";
+	CUSTOMIZATION_GENDER = "Gender";
+	CUSTOMIZATION_GENDER_MALE = "Male";
+	CUSTOMIZATION_GENDER_FEMALE = "Female";
+	CUSTOMIZATION_HAIR = "Hair";
+	CUSTOMIZATION_NAME = "Roleplay Name";
+	CUSTOMIZATION_NAME_FIRST = "First Name";
+	CUSTOMIZATION_NAME_LAST = "Last Name";
+	CUSTOMIZATION_SKINCOLORS = "Skin Colors";
+
 	--Ethnicities
 	ETHNICITY_AFRICAN = "African";
 	ETHNICITY_AKAN = "Akan";
