@@ -52,7 +52,9 @@ module.Translations = {
 	CUSTOMIZATION_HAIR = "Hair";
 	CUSTOMIZATION_NAME = "Roleplay Name";
 	CUSTOMIZATION_NAME_FIRST = "First Name";
+	CUSTOMIZATION_NAME_FIRST_PL = "First Names";
 	CUSTOMIZATION_NAME_LAST = "Last Name";
+	CUSTOMIZATION_NAME_LAST_PL = "Last Names";
 	CUSTOMIZATION_SKINCOLORS = "Skin Colors";
 
 	--Ethnicities
